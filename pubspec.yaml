@@ -1,0 +1,62 @@
+name: fry_guys
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+
+
+  cupertino_icons: ^1.0.8
+  flutter_native_splash: ^2.4.3
+  flutter_svg: ^2.0.16
+  google_fonts: ^6.2.1
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+  
+  geolocator: ^13.0.2
+  font_awesome_flutter: ^10.8.0
+  
+  
+  
+  
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  flutter_lints: ^4.0.0
+
+
+flutter:
+
+  
+  uses-material-design: true
+
+  
+  assets:
+    - assets/
+    - assets/icons/
+    - assets/flags/
+
+
+
+  
+
+  fonts:
+    - family: Dimnah
+      fonts:
+        - asset: fonts/ae_Dimnah.ttf      
+
+ 
+  
